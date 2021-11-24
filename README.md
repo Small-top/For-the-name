@@ -1,5 +1,5 @@
 # 《快乐点名器》
-**此项目制作是出于语文老师的要求（并且我本来也想做），所以做出来了这么个东西。  
+**此项目制作是出于班主任的要求（并且我本来也想做），所以做出来了这么个东西。  
 挺有意思的，这可能是我第一次做出一个完整的软件，开源出来纪念纪念**  
   
 This programa made because of my Teacher(and i want to make this programa too), so here.  
